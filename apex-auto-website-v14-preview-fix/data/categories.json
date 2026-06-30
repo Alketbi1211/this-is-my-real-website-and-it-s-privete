@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Interior",
+    "icon": "\ud83e\ude91",
+    "description": "Cabin comfort, mats, covers, and organizers"
+  },
+  {
+    "id": "Exterior",
+    "icon": "\ud83d\ude97",
+    "description": "Body styling, spoilers, visors, and guards"
+  },
+  {
+    "id": "Protection",
+    "icon": "\ud83d\udee1\ufe0f",
+    "description": "Screen, paint, door, and trunk protection"
+  },
+  {
+    "id": "Electronics",
+    "icon": "\u26a1",
+    "description": "Charging, cameras, phone holders, and tech"
+  },
+  {
+    "id": "Storage",
+    "icon": "\ud83e\uddf3",
+    "description": "Cargo organizers, nets, and extra storage"
+  },
+  {
+    "id": "Lighting",
+    "icon": "\ud83d\udca1",
+    "description": "Ambient, welcome, and projector lighting"
+  }
+]

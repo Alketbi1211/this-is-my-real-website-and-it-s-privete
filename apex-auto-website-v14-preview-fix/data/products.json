@@ -1,0 +1,4498 @@
+[
+  {
+    "id": "PRD-0001",
+    "slug": "3d-tpe-floor-mats-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "3D TPE Floor Mats",
+    "category": "Interior",
+    "price": 399,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/floor-mats-avatr12/purple-tpe.png",
+      "images/products/floor-mats-avatr12/purple-cashmere.png",
+      "images/products/floor-mats-avatr12/purple-water-ripple.png",
+      "images/products/floor-mats-avatr12/purple-wool.png",
+      "images/products/floor-mats-avatr12/white-tpe.png",
+      "images/products/floor-mats-avatr12/white-cashmere.png",
+      "images/products/floor-mats-avatr12/white-water-ripple.png",
+      "images/products/floor-mats-avatr12/white-wool.png",
+      "images/products/floor-mats-avatr12/black-tpe.png",
+      "images/products/floor-mats-avatr12/black-cashmere.png",
+      "images/products/floor-mats-avatr12/black-water-ripple.png",
+      "images/products/floor-mats-avatr12/black-wool.png",
+      "images/products/floor-mats-avatr12/trunk-mat.png"
+    ],
+    "stock": 25,
+    "status": "in-stock",
+    "featured": true,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Custom-fit 3D TPE floor mats for AVATR 12. Choose your color and material, then order directly through WhatsApp.",
+    "shortDescription": "Custom-fit AVATR 12 floor mats with real color and material previews.",
+    "tags": [
+      "Interior",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to order 3D TPE Floor Mats for AVATR 12.",
+    "features": [
+      "Premium TPE material",
+      "Waterproof and easy to clean",
+      "Full protection with raised edges",
+      "Anti-slip design",
+      "Custom fit for AVATR 12"
+    ],
+    "basePrice": 399,
+    "options": [
+      {
+        "id": "color",
+        "label": "Choose Color",
+        "type": "color",
+        "required": true,
+        "choices": [
+          {
+            "label": "Twilight Purple",
+            "value": "purple",
+            "hex": "#8b6aa3",
+            "image": "images/products/floor-mats-avatr12/purple-tpe.png"
+          },
+          {
+            "label": "Smoky White",
+            "value": "white",
+            "hex": "#f3f4f6",
+            "image": "images/products/floor-mats-avatr12/white-tpe.png"
+          },
+          {
+            "label": "Dark Black",
+            "value": "black",
+            "hex": "#111111",
+            "image": "images/products/floor-mats-avatr12/black-tpe.png"
+          }
+        ]
+      },
+      {
+        "id": "material",
+        "label": "Choose Material",
+        "type": "dependent-image",
+        "dependsOn": "color",
+        "required": true,
+        "choices": [
+          {
+            "label": "TPE Footpads",
+            "value": "tpe",
+            "priceAdd": 0,
+            "images": {
+              "purple": "images/products/floor-mats-avatr12/purple-tpe.png",
+              "white": "images/products/floor-mats-avatr12/white-tpe.png",
+              "black": "images/products/floor-mats-avatr12/black-tpe.png"
+            },
+            "supplierNames": {
+              "purple": "Twilight Purple | TPE Footpads",
+              "white": "Smoky White | TPE Foot Pads",
+              "black": "Dark Black | TPE Foot Pads"
+            }
+          },
+          {
+            "label": "Faux Cashmere Blanket",
+            "value": "cashmere",
+            "priceAdd": 120,
+            "images": {
+              "purple": "images/products/floor-mats-avatr12/purple-cashmere.png",
+              "white": "images/products/floor-mats-avatr12/white-cashmere.png",
+              "black": "images/products/floor-mats-avatr12/black-cashmere.png"
+            },
+            "supplierNames": {
+              "purple": "Twilight Purple | TPE Footpads + Black Faux Cashmere Blanket",
+              "white": "Smoky White | TPE foot pads + gray faux cashmere blanket",
+              "black": "Dark Black | TPE Foot Pads + Black Faux Cashmere Blanket"
+            }
+          },
+          {
+            "label": "Water Ripple Blanket",
+            "value": "water-ripple",
+            "priceAdd": 150,
+            "images": {
+              "purple": "images/products/floor-mats-avatr12/purple-water-ripple.png",
+              "white": "images/products/floor-mats-avatr12/white-water-ripple.png",
+              "black": "images/products/floor-mats-avatr12/black-water-ripple.png"
+            },
+            "supplierNames": {
+              "purple": "Twilight Purple | TPE Footpads + Black Water Ripple Blanket",
+              "white": "Smoky White | TPE foot pads + gray water ripple blanket",
+              "black": "Dark Black | TPE Foot Pads + Black Water Ripple Blanket"
+            }
+          },
+          {
+            "label": "Faux Wool Blanket",
+            "value": "wool",
+            "priceAdd": 180,
+            "images": {
+              "purple": "images/products/floor-mats-avatr12/purple-wool.png",
+              "white": "images/products/floor-mats-avatr12/white-wool.png",
+              "black": "images/products/floor-mats-avatr12/black-wool.png"
+            },
+            "supplierNames": {
+              "purple": "Twilight Purple | TPE Footpads + Purple Faux Wool Blanket",
+              "white": "Smoky White | TPE foot pads + gray faux wool blanket",
+              "black": "Dark Black | TPE Foot Pads + Black Faux Wool Blanket"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PRD-0002",
+    "slug": "premium-seat-covers-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Premium Seat Covers",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": true,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Luxury seat covers with a clean OEM-style fit. Fits AVATR 12.",
+    "shortDescription": "Luxury seat covers with a clean OEM-style fit. Fits AVATR 12.",
+    "tags": [
+      "Interior",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Premium Seat Covers for AVATR 12."
+  },
+  {
+    "id": "PRD-0003",
+    "slug": "dashboard-cover-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Dashboard Cover",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": true,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Protects the dashboard from heat, dust, and sunlight. Fits AVATR 12.",
+    "shortDescription": "Protects the dashboard from heat, dust, and sunlight. Fits AVATR 12.",
+    "tags": [
+      "Interior",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Dashboard Cover for AVATR 12."
+  },
+  {
+    "id": "PRD-0004",
+    "slug": "center-console-organizer-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Center Console Organizer",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": true,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Keeps small items organized inside the center console. Fits AVATR 12.",
+    "shortDescription": "Keeps small items organized inside the center console. Fits AVATR 12.",
+    "tags": [
+      "Interior",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Center Console Organizer for AVATR 12."
+  },
+  {
+    "id": "PRD-0005",
+    "slug": "rear-spoiler-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Rear Spoiler",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": true,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Sporty exterior styling upgrade. Fits AVATR 12.",
+    "shortDescription": "Sporty exterior styling upgrade. Fits AVATR 12.",
+    "tags": [
+      "Exterior",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Rear Spoiler for AVATR 12."
+  },
+  {
+    "id": "PRD-0006",
+    "slug": "mud-guards-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Mud Guards",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": true,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Protects the body from mud, water, and road debris. Fits AVATR 12.",
+    "shortDescription": "Protects the body from mud, water, and road debris. Fits AVATR 12.",
+    "tags": [
+      "Exterior",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Mud Guards for AVATR 12."
+  },
+  {
+    "id": "PRD-0007",
+    "slug": "window-visors-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Window Visors",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": true,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Slim rain guards for a cleaner and more practical exterior. Fits AVATR 12.",
+    "shortDescription": "Slim rain guards for a cleaner and more practical exterior. Fits AVATR 12.",
+    "tags": [
+      "Exterior",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Window Visors for AVATR 12."
+  },
+  {
+    "id": "PRD-0008",
+    "slug": "mirror-covers-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Mirror Covers",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": true,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Stylish mirror covers for a premium exterior look. Fits AVATR 12.",
+    "shortDescription": "Stylish mirror covers for a premium exterior look. Fits AVATR 12.",
+    "tags": [
+      "Exterior",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Mirror Covers for AVATR 12."
+  },
+  {
+    "id": "PRD-0009",
+    "slug": "screen-protector-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Screen Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Tempered glass protection for the main display. Fits AVATR 12.",
+    "shortDescription": "Tempered glass protection for the main display. Fits AVATR 12.",
+    "tags": [
+      "Protection",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Screen Protector for AVATR 12."
+  },
+  {
+    "id": "PRD-0010",
+    "slug": "door-edge-guards-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Door Edge Guards",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Protects door edges from chips and scratches. Fits AVATR 12.",
+    "shortDescription": "Protects door edges from chips and scratches. Fits AVATR 12.",
+    "tags": [
+      "Protection",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Edge Guards for AVATR 12."
+  },
+  {
+    "id": "PRD-0011",
+    "slug": "trunk-protector-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Trunk Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Durable protection for loading and unloading cargo. Fits AVATR 12.",
+    "shortDescription": "Durable protection for loading and unloading cargo. Fits AVATR 12.",
+    "tags": [
+      "Protection",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Protector for AVATR 12."
+  },
+  {
+    "id": "PRD-0012",
+    "slug": "paint-protection-film-kit-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Paint Protection Film Kit",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Clear protective film for high-contact exterior areas. Fits AVATR 12.",
+    "shortDescription": "Clear protective film for high-contact exterior areas. Fits AVATR 12.",
+    "tags": [
+      "Protection",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Paint Protection Film Kit for AVATR 12."
+  },
+  {
+    "id": "PRD-0013",
+    "slug": "wireless-charger-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Fast wireless charging accessory for daily use. Fits AVATR 12.",
+    "shortDescription": "Fast wireless charging accessory for daily use. Fits AVATR 12.",
+    "tags": [
+      "Electronics",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Wireless Charger for AVATR 12."
+  },
+  {
+    "id": "PRD-0014",
+    "slug": "dash-camera-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Dash Camera",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "High-definition driving recorder for added safety. Fits AVATR 12.",
+    "shortDescription": "High-definition driving recorder for added safety. Fits AVATR 12.",
+    "tags": [
+      "Electronics",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Dash Camera for AVATR 12."
+  },
+  {
+    "id": "PRD-0015",
+    "slug": "phone-holder-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Phone Holder",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Stable phone mount with a clean interior fit. Fits AVATR 12.",
+    "shortDescription": "Stable phone mount with a clean interior fit. Fits AVATR 12.",
+    "tags": [
+      "Electronics",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Phone Holder for AVATR 12."
+  },
+  {
+    "id": "PRD-0016",
+    "slug": "usb-hub-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "USB Hub",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Adds extra charging and connection ports. Fits AVATR 12.",
+    "shortDescription": "Adds extra charging and connection ports. Fits AVATR 12.",
+    "tags": [
+      "Electronics",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about USB Hub for AVATR 12."
+  },
+  {
+    "id": "PRD-0017",
+    "slug": "trunk-organizer-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Trunk Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Keeps cargo clean, secure, and organized. Fits AVATR 12.",
+    "shortDescription": "Keeps cargo clean, secure, and organized. Fits AVATR 12.",
+    "tags": [
+      "Storage",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Organizer for AVATR 12."
+  },
+  {
+    "id": "PRD-0018",
+    "slug": "cargo-net-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Cargo Net",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Holds items in place while driving. Fits AVATR 12.",
+    "shortDescription": "Holds items in place while driving. Fits AVATR 12.",
+    "tags": [
+      "Storage",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Cargo Net for AVATR 12."
+  },
+  {
+    "id": "PRD-0019",
+    "slug": "seat-back-organizer-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Seat Back Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Extra storage for rear passengers and daily items. Fits AVATR 12.",
+    "shortDescription": "Extra storage for rear passengers and daily items. Fits AVATR 12.",
+    "tags": [
+      "Storage",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Seat Back Organizer for AVATR 12."
+  },
+  {
+    "id": "PRD-0020",
+    "slug": "interior-led-kit-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Interior LED Kit",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Ambient lighting upgrade for a premium cabin feel. Fits AVATR 12.",
+    "shortDescription": "Ambient lighting upgrade for a premium cabin feel. Fits AVATR 12.",
+    "tags": [
+      "Lighting",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Interior LED Kit for AVATR 12."
+  },
+  {
+    "id": "PRD-0021",
+    "slug": "welcome-lights-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Welcome Lights",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Elegant entry lighting for a luxury look. Fits AVATR 12.",
+    "shortDescription": "Elegant entry lighting for a luxury look. Fits AVATR 12.",
+    "tags": [
+      "Lighting",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Welcome Lights for AVATR 12."
+  },
+  {
+    "id": "PRD-0022",
+    "slug": "door-logo-projector-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Door Logo Projector",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Projects a clean welcome logo when opening the door. Fits AVATR 12.",
+    "shortDescription": "Projects a clean welcome logo when opening the door. Fits AVATR 12.",
+    "tags": [
+      "Lighting",
+      "AVATR 12"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Logo Projector for AVATR 12."
+  },
+  {
+    "id": "PRD-0023",
+    "slug": "3d-floor-mats-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "3D Floor Mats",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Custom-fit all-weather floor mats. Fits AVATR 11.",
+    "shortDescription": "Custom-fit all-weather floor mats. Fits AVATR 11.",
+    "tags": [
+      "Interior",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about 3D Floor Mats for AVATR 11."
+  },
+  {
+    "id": "PRD-0024",
+    "slug": "premium-seat-covers-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Premium Seat Covers",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Luxury seat covers with a clean OEM-style fit. Fits AVATR 11.",
+    "shortDescription": "Luxury seat covers with a clean OEM-style fit. Fits AVATR 11.",
+    "tags": [
+      "Interior",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Premium Seat Covers for AVATR 11."
+  },
+  {
+    "id": "PRD-0025",
+    "slug": "dashboard-cover-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Dashboard Cover",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Protects the dashboard from heat, dust, and sunlight. Fits AVATR 11.",
+    "shortDescription": "Protects the dashboard from heat, dust, and sunlight. Fits AVATR 11.",
+    "tags": [
+      "Interior",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Dashboard Cover for AVATR 11."
+  },
+  {
+    "id": "PRD-0026",
+    "slug": "center-console-organizer-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Center Console Organizer",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Keeps small items organized inside the center console. Fits AVATR 11.",
+    "shortDescription": "Keeps small items organized inside the center console. Fits AVATR 11.",
+    "tags": [
+      "Interior",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Center Console Organizer for AVATR 11."
+  },
+  {
+    "id": "PRD-0027",
+    "slug": "rear-spoiler-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Rear Spoiler",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Sporty exterior styling upgrade. Fits AVATR 11.",
+    "shortDescription": "Sporty exterior styling upgrade. Fits AVATR 11.",
+    "tags": [
+      "Exterior",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Rear Spoiler for AVATR 11."
+  },
+  {
+    "id": "PRD-0028",
+    "slug": "mud-guards-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Mud Guards",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Protects the body from mud, water, and road debris. Fits AVATR 11.",
+    "shortDescription": "Protects the body from mud, water, and road debris. Fits AVATR 11.",
+    "tags": [
+      "Exterior",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Mud Guards for AVATR 11."
+  },
+  {
+    "id": "PRD-0029",
+    "slug": "window-visors-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Window Visors",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Slim rain guards for a cleaner and more practical exterior. Fits AVATR 11.",
+    "shortDescription": "Slim rain guards for a cleaner and more practical exterior. Fits AVATR 11.",
+    "tags": [
+      "Exterior",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Window Visors for AVATR 11."
+  },
+  {
+    "id": "PRD-0030",
+    "slug": "mirror-covers-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Mirror Covers",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Stylish mirror covers for a premium exterior look. Fits AVATR 11.",
+    "shortDescription": "Stylish mirror covers for a premium exterior look. Fits AVATR 11.",
+    "tags": [
+      "Exterior",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Mirror Covers for AVATR 11."
+  },
+  {
+    "id": "PRD-0031",
+    "slug": "screen-protector-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Screen Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Tempered glass protection for the main display. Fits AVATR 11.",
+    "shortDescription": "Tempered glass protection for the main display. Fits AVATR 11.",
+    "tags": [
+      "Protection",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Screen Protector for AVATR 11."
+  },
+  {
+    "id": "PRD-0032",
+    "slug": "door-edge-guards-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Door Edge Guards",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Protects door edges from chips and scratches. Fits AVATR 11.",
+    "shortDescription": "Protects door edges from chips and scratches. Fits AVATR 11.",
+    "tags": [
+      "Protection",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Edge Guards for AVATR 11."
+  },
+  {
+    "id": "PRD-0033",
+    "slug": "trunk-protector-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Trunk Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Durable protection for loading and unloading cargo. Fits AVATR 11.",
+    "shortDescription": "Durable protection for loading and unloading cargo. Fits AVATR 11.",
+    "tags": [
+      "Protection",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Protector for AVATR 11."
+  },
+  {
+    "id": "PRD-0034",
+    "slug": "paint-protection-film-kit-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Paint Protection Film Kit",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Clear protective film for high-contact exterior areas. Fits AVATR 11.",
+    "shortDescription": "Clear protective film for high-contact exterior areas. Fits AVATR 11.",
+    "tags": [
+      "Protection",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Paint Protection Film Kit for AVATR 11."
+  },
+  {
+    "id": "PRD-0035",
+    "slug": "wireless-charger-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Fast wireless charging accessory for daily use. Fits AVATR 11.",
+    "shortDescription": "Fast wireless charging accessory for daily use. Fits AVATR 11.",
+    "tags": [
+      "Electronics",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Wireless Charger for AVATR 11."
+  },
+  {
+    "id": "PRD-0036",
+    "slug": "dash-camera-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Dash Camera",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "High-definition driving recorder for added safety. Fits AVATR 11.",
+    "shortDescription": "High-definition driving recorder for added safety. Fits AVATR 11.",
+    "tags": [
+      "Electronics",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Dash Camera for AVATR 11."
+  },
+  {
+    "id": "PRD-0037",
+    "slug": "phone-holder-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Phone Holder",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Stable phone mount with a clean interior fit. Fits AVATR 11.",
+    "shortDescription": "Stable phone mount with a clean interior fit. Fits AVATR 11.",
+    "tags": [
+      "Electronics",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Phone Holder for AVATR 11."
+  },
+  {
+    "id": "PRD-0038",
+    "slug": "usb-hub-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "USB Hub",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Adds extra charging and connection ports. Fits AVATR 11.",
+    "shortDescription": "Adds extra charging and connection ports. Fits AVATR 11.",
+    "tags": [
+      "Electronics",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about USB Hub for AVATR 11."
+  },
+  {
+    "id": "PRD-0039",
+    "slug": "trunk-organizer-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Trunk Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Keeps cargo clean, secure, and organized. Fits AVATR 11.",
+    "shortDescription": "Keeps cargo clean, secure, and organized. Fits AVATR 11.",
+    "tags": [
+      "Storage",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Organizer for AVATR 11."
+  },
+  {
+    "id": "PRD-0040",
+    "slug": "cargo-net-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Cargo Net",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Holds items in place while driving. Fits AVATR 11.",
+    "shortDescription": "Holds items in place while driving. Fits AVATR 11.",
+    "tags": [
+      "Storage",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Cargo Net for AVATR 11."
+  },
+  {
+    "id": "PRD-0041",
+    "slug": "seat-back-organizer-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Seat Back Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Extra storage for rear passengers and daily items. Fits AVATR 11.",
+    "shortDescription": "Extra storage for rear passengers and daily items. Fits AVATR 11.",
+    "tags": [
+      "Storage",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Seat Back Organizer for AVATR 11."
+  },
+  {
+    "id": "PRD-0042",
+    "slug": "interior-led-kit-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Interior LED Kit",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Ambient lighting upgrade for a premium cabin feel. Fits AVATR 11.",
+    "shortDescription": "Ambient lighting upgrade for a premium cabin feel. Fits AVATR 11.",
+    "tags": [
+      "Lighting",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Interior LED Kit for AVATR 11."
+  },
+  {
+    "id": "PRD-0043",
+    "slug": "welcome-lights-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Welcome Lights",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Elegant entry lighting for a luxury look. Fits AVATR 11.",
+    "shortDescription": "Elegant entry lighting for a luxury look. Fits AVATR 11.",
+    "tags": [
+      "Lighting",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Welcome Lights for AVATR 11."
+  },
+  {
+    "id": "PRD-0044",
+    "slug": "door-logo-projector-avatr11",
+    "vehicle": "avatr11",
+    "vehicleName": "AVATR 11",
+    "name": "Door Logo Projector",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "AVATR 11"
+    ],
+    "description": "Projects a clean welcome logo when opening the door. Fits AVATR 11.",
+    "shortDescription": "Projects a clean welcome logo when opening the door. Fits AVATR 11.",
+    "tags": [
+      "Lighting",
+      "AVATR 11"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Logo Projector for AVATR 11."
+  },
+  {
+    "id": "PRD-0045",
+    "slug": "3d-floor-mats-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "3D Floor Mats",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Custom-fit all-weather floor mats. Fits ROX 01.",
+    "shortDescription": "Custom-fit all-weather floor mats. Fits ROX 01.",
+    "tags": [
+      "Interior",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about 3D Floor Mats for ROX 01."
+  },
+  {
+    "id": "PRD-0046",
+    "slug": "premium-seat-covers-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Premium Seat Covers",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Luxury seat covers with a clean OEM-style fit. Fits ROX 01.",
+    "shortDescription": "Luxury seat covers with a clean OEM-style fit. Fits ROX 01.",
+    "tags": [
+      "Interior",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Premium Seat Covers for ROX 01."
+  },
+  {
+    "id": "PRD-0047",
+    "slug": "dashboard-cover-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Dashboard Cover",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Protects the dashboard from heat, dust, and sunlight. Fits ROX 01.",
+    "shortDescription": "Protects the dashboard from heat, dust, and sunlight. Fits ROX 01.",
+    "tags": [
+      "Interior",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Dashboard Cover for ROX 01."
+  },
+  {
+    "id": "PRD-0048",
+    "slug": "center-console-organizer-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Center Console Organizer",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Keeps small items organized inside the center console. Fits ROX 01.",
+    "shortDescription": "Keeps small items organized inside the center console. Fits ROX 01.",
+    "tags": [
+      "Interior",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Center Console Organizer for ROX 01."
+  },
+  {
+    "id": "PRD-0049",
+    "slug": "rear-spoiler-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Rear Spoiler",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Sporty exterior styling upgrade. Fits ROX 01.",
+    "shortDescription": "Sporty exterior styling upgrade. Fits ROX 01.",
+    "tags": [
+      "Exterior",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Rear Spoiler for ROX 01."
+  },
+  {
+    "id": "PRD-0050",
+    "slug": "mud-guards-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Mud Guards",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Protects the body from mud, water, and road debris. Fits ROX 01.",
+    "shortDescription": "Protects the body from mud, water, and road debris. Fits ROX 01.",
+    "tags": [
+      "Exterior",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Mud Guards for ROX 01."
+  },
+  {
+    "id": "PRD-0051",
+    "slug": "window-visors-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Window Visors",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Slim rain guards for a cleaner and more practical exterior. Fits ROX 01.",
+    "shortDescription": "Slim rain guards for a cleaner and more practical exterior. Fits ROX 01.",
+    "tags": [
+      "Exterior",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Window Visors for ROX 01."
+  },
+  {
+    "id": "PRD-0052",
+    "slug": "mirror-covers-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Mirror Covers",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Stylish mirror covers for a premium exterior look. Fits ROX 01.",
+    "shortDescription": "Stylish mirror covers for a premium exterior look. Fits ROX 01.",
+    "tags": [
+      "Exterior",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Mirror Covers for ROX 01."
+  },
+  {
+    "id": "PRD-0053",
+    "slug": "screen-protector-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Screen Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Tempered glass protection for the main display. Fits ROX 01.",
+    "shortDescription": "Tempered glass protection for the main display. Fits ROX 01.",
+    "tags": [
+      "Protection",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Screen Protector for ROX 01."
+  },
+  {
+    "id": "PRD-0054",
+    "slug": "door-edge-guards-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Door Edge Guards",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Protects door edges from chips and scratches. Fits ROX 01.",
+    "shortDescription": "Protects door edges from chips and scratches. Fits ROX 01.",
+    "tags": [
+      "Protection",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Edge Guards for ROX 01."
+  },
+  {
+    "id": "PRD-0055",
+    "slug": "trunk-protector-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Trunk Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Durable protection for loading and unloading cargo. Fits ROX 01.",
+    "shortDescription": "Durable protection for loading and unloading cargo. Fits ROX 01.",
+    "tags": [
+      "Protection",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Protector for ROX 01."
+  },
+  {
+    "id": "PRD-0056",
+    "slug": "paint-protection-film-kit-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Paint Protection Film Kit",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Clear protective film for high-contact exterior areas. Fits ROX 01.",
+    "shortDescription": "Clear protective film for high-contact exterior areas. Fits ROX 01.",
+    "tags": [
+      "Protection",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Paint Protection Film Kit for ROX 01."
+  },
+  {
+    "id": "PRD-0057",
+    "slug": "wireless-charger-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Fast wireless charging accessory for daily use. Fits ROX 01.",
+    "shortDescription": "Fast wireless charging accessory for daily use. Fits ROX 01.",
+    "tags": [
+      "Electronics",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Wireless Charger for ROX 01."
+  },
+  {
+    "id": "PRD-0058",
+    "slug": "dash-camera-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Dash Camera",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "High-definition driving recorder for added safety. Fits ROX 01.",
+    "shortDescription": "High-definition driving recorder for added safety. Fits ROX 01.",
+    "tags": [
+      "Electronics",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Dash Camera for ROX 01."
+  },
+  {
+    "id": "PRD-0059",
+    "slug": "phone-holder-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Phone Holder",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Stable phone mount with a clean interior fit. Fits ROX 01.",
+    "shortDescription": "Stable phone mount with a clean interior fit. Fits ROX 01.",
+    "tags": [
+      "Electronics",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Phone Holder for ROX 01."
+  },
+  {
+    "id": "PRD-0060",
+    "slug": "usb-hub-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "USB Hub",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Adds extra charging and connection ports. Fits ROX 01.",
+    "shortDescription": "Adds extra charging and connection ports. Fits ROX 01.",
+    "tags": [
+      "Electronics",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about USB Hub for ROX 01."
+  },
+  {
+    "id": "PRD-0061",
+    "slug": "trunk-organizer-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Trunk Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Keeps cargo clean, secure, and organized. Fits ROX 01.",
+    "shortDescription": "Keeps cargo clean, secure, and organized. Fits ROX 01.",
+    "tags": [
+      "Storage",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Organizer for ROX 01."
+  },
+  {
+    "id": "PRD-0062",
+    "slug": "cargo-net-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Cargo Net",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Holds items in place while driving. Fits ROX 01.",
+    "shortDescription": "Holds items in place while driving. Fits ROX 01.",
+    "tags": [
+      "Storage",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Cargo Net for ROX 01."
+  },
+  {
+    "id": "PRD-0063",
+    "slug": "seat-back-organizer-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Seat Back Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Extra storage for rear passengers and daily items. Fits ROX 01.",
+    "shortDescription": "Extra storage for rear passengers and daily items. Fits ROX 01.",
+    "tags": [
+      "Storage",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Seat Back Organizer for ROX 01."
+  },
+  {
+    "id": "PRD-0064",
+    "slug": "interior-led-kit-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Interior LED Kit",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Ambient lighting upgrade for a premium cabin feel. Fits ROX 01.",
+    "shortDescription": "Ambient lighting upgrade for a premium cabin feel. Fits ROX 01.",
+    "tags": [
+      "Lighting",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Interior LED Kit for ROX 01."
+  },
+  {
+    "id": "PRD-0065",
+    "slug": "welcome-lights-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Welcome Lights",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Elegant entry lighting for a luxury look. Fits ROX 01.",
+    "shortDescription": "Elegant entry lighting for a luxury look. Fits ROX 01.",
+    "tags": [
+      "Lighting",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Welcome Lights for ROX 01."
+  },
+  {
+    "id": "PRD-0066",
+    "slug": "door-logo-projector-rox01",
+    "vehicle": "rox01",
+    "vehicleName": "ROX 01",
+    "name": "Door Logo Projector",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX 01"
+    ],
+    "description": "Projects a clean welcome logo when opening the door. Fits ROX 01.",
+    "shortDescription": "Projects a clean welcome logo when opening the door. Fits ROX 01.",
+    "tags": [
+      "Lighting",
+      "ROX 01"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Logo Projector for ROX 01."
+  },
+  {
+    "id": "PRD-0067",
+    "slug": "3d-floor-mats-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "3D Floor Mats",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Custom-fit all-weather floor mats. Fits ROX ADAMAS.",
+    "shortDescription": "Custom-fit all-weather floor mats. Fits ROX ADAMAS.",
+    "tags": [
+      "Interior",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about 3D Floor Mats for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0068",
+    "slug": "premium-seat-covers-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Premium Seat Covers",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Luxury seat covers with a clean OEM-style fit. Fits ROX ADAMAS.",
+    "shortDescription": "Luxury seat covers with a clean OEM-style fit. Fits ROX ADAMAS.",
+    "tags": [
+      "Interior",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Premium Seat Covers for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0069",
+    "slug": "dashboard-cover-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Dashboard Cover",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Protects the dashboard from heat, dust, and sunlight. Fits ROX ADAMAS.",
+    "shortDescription": "Protects the dashboard from heat, dust, and sunlight. Fits ROX ADAMAS.",
+    "tags": [
+      "Interior",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Dashboard Cover for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0070",
+    "slug": "center-console-organizer-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Center Console Organizer",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Keeps small items organized inside the center console. Fits ROX ADAMAS.",
+    "shortDescription": "Keeps small items organized inside the center console. Fits ROX ADAMAS.",
+    "tags": [
+      "Interior",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Center Console Organizer for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0071",
+    "slug": "rear-spoiler-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Rear Spoiler",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Sporty exterior styling upgrade. Fits ROX ADAMAS.",
+    "shortDescription": "Sporty exterior styling upgrade. Fits ROX ADAMAS.",
+    "tags": [
+      "Exterior",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Rear Spoiler for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0072",
+    "slug": "mud-guards-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Mud Guards",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Protects the body from mud, water, and road debris. Fits ROX ADAMAS.",
+    "shortDescription": "Protects the body from mud, water, and road debris. Fits ROX ADAMAS.",
+    "tags": [
+      "Exterior",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Mud Guards for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0073",
+    "slug": "window-visors-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Window Visors",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Slim rain guards for a cleaner and more practical exterior. Fits ROX ADAMAS.",
+    "shortDescription": "Slim rain guards for a cleaner and more practical exterior. Fits ROX ADAMAS.",
+    "tags": [
+      "Exterior",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Window Visors for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0074",
+    "slug": "mirror-covers-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Mirror Covers",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Stylish mirror covers for a premium exterior look. Fits ROX ADAMAS.",
+    "shortDescription": "Stylish mirror covers for a premium exterior look. Fits ROX ADAMAS.",
+    "tags": [
+      "Exterior",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Mirror Covers for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0075",
+    "slug": "screen-protector-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Screen Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Tempered glass protection for the main display. Fits ROX ADAMAS.",
+    "shortDescription": "Tempered glass protection for the main display. Fits ROX ADAMAS.",
+    "tags": [
+      "Protection",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Screen Protector for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0076",
+    "slug": "door-edge-guards-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Door Edge Guards",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Protects door edges from chips and scratches. Fits ROX ADAMAS.",
+    "shortDescription": "Protects door edges from chips and scratches. Fits ROX ADAMAS.",
+    "tags": [
+      "Protection",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Edge Guards for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0077",
+    "slug": "trunk-protector-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Trunk Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Durable protection for loading and unloading cargo. Fits ROX ADAMAS.",
+    "shortDescription": "Durable protection for loading and unloading cargo. Fits ROX ADAMAS.",
+    "tags": [
+      "Protection",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Protector for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0078",
+    "slug": "paint-protection-film-kit-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Paint Protection Film Kit",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Clear protective film for high-contact exterior areas. Fits ROX ADAMAS.",
+    "shortDescription": "Clear protective film for high-contact exterior areas. Fits ROX ADAMAS.",
+    "tags": [
+      "Protection",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Paint Protection Film Kit for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0079",
+    "slug": "wireless-charger-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Fast wireless charging accessory for daily use. Fits ROX ADAMAS.",
+    "shortDescription": "Fast wireless charging accessory for daily use. Fits ROX ADAMAS.",
+    "tags": [
+      "Electronics",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Wireless Charger for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0080",
+    "slug": "dash-camera-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Dash Camera",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "High-definition driving recorder for added safety. Fits ROX ADAMAS.",
+    "shortDescription": "High-definition driving recorder for added safety. Fits ROX ADAMAS.",
+    "tags": [
+      "Electronics",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Dash Camera for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0081",
+    "slug": "phone-holder-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Phone Holder",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Stable phone mount with a clean interior fit. Fits ROX ADAMAS.",
+    "shortDescription": "Stable phone mount with a clean interior fit. Fits ROX ADAMAS.",
+    "tags": [
+      "Electronics",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Phone Holder for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0082",
+    "slug": "usb-hub-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "USB Hub",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Adds extra charging and connection ports. Fits ROX ADAMAS.",
+    "shortDescription": "Adds extra charging and connection ports. Fits ROX ADAMAS.",
+    "tags": [
+      "Electronics",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about USB Hub for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0083",
+    "slug": "trunk-organizer-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Trunk Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Keeps cargo clean, secure, and organized. Fits ROX ADAMAS.",
+    "shortDescription": "Keeps cargo clean, secure, and organized. Fits ROX ADAMAS.",
+    "tags": [
+      "Storage",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Organizer for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0084",
+    "slug": "cargo-net-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Cargo Net",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Holds items in place while driving. Fits ROX ADAMAS.",
+    "shortDescription": "Holds items in place while driving. Fits ROX ADAMAS.",
+    "tags": [
+      "Storage",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Cargo Net for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0085",
+    "slug": "seat-back-organizer-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Seat Back Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Extra storage for rear passengers and daily items. Fits ROX ADAMAS.",
+    "shortDescription": "Extra storage for rear passengers and daily items. Fits ROX ADAMAS.",
+    "tags": [
+      "Storage",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Seat Back Organizer for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0086",
+    "slug": "interior-led-kit-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Interior LED Kit",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Ambient lighting upgrade for a premium cabin feel. Fits ROX ADAMAS.",
+    "shortDescription": "Ambient lighting upgrade for a premium cabin feel. Fits ROX ADAMAS.",
+    "tags": [
+      "Lighting",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Interior LED Kit for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0087",
+    "slug": "welcome-lights-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Welcome Lights",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Elegant entry lighting for a luxury look. Fits ROX ADAMAS.",
+    "shortDescription": "Elegant entry lighting for a luxury look. Fits ROX ADAMAS.",
+    "tags": [
+      "Lighting",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Welcome Lights for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0088",
+    "slug": "door-logo-projector-rox-adamas",
+    "vehicle": "rox-adamas",
+    "vehicleName": "ROX ADAMAS",
+    "name": "Door Logo Projector",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "ROX ADAMAS"
+    ],
+    "description": "Projects a clean welcome logo when opening the door. Fits ROX ADAMAS.",
+    "shortDescription": "Projects a clean welcome logo when opening the door. Fits ROX ADAMAS.",
+    "tags": [
+      "Lighting",
+      "ROX ADAMAS"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Logo Projector for ROX ADAMAS."
+  },
+  {
+    "id": "PRD-0089",
+    "slug": "3d-floor-mats-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "3D Floor Mats",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Custom-fit all-weather floor mats. Fits LEOPARD 5.",
+    "shortDescription": "Custom-fit all-weather floor mats. Fits LEOPARD 5.",
+    "tags": [
+      "Interior",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about 3D Floor Mats for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0090",
+    "slug": "premium-seat-covers-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Premium Seat Covers",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Luxury seat covers with a clean OEM-style fit. Fits LEOPARD 5.",
+    "shortDescription": "Luxury seat covers with a clean OEM-style fit. Fits LEOPARD 5.",
+    "tags": [
+      "Interior",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Premium Seat Covers for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0091",
+    "slug": "dashboard-cover-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Dashboard Cover",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Protects the dashboard from heat, dust, and sunlight. Fits LEOPARD 5.",
+    "shortDescription": "Protects the dashboard from heat, dust, and sunlight. Fits LEOPARD 5.",
+    "tags": [
+      "Interior",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Dashboard Cover for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0092",
+    "slug": "center-console-organizer-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Center Console Organizer",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Keeps small items organized inside the center console. Fits LEOPARD 5.",
+    "shortDescription": "Keeps small items organized inside the center console. Fits LEOPARD 5.",
+    "tags": [
+      "Interior",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Center Console Organizer for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0093",
+    "slug": "rear-spoiler-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Rear Spoiler",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Sporty exterior styling upgrade. Fits LEOPARD 5.",
+    "shortDescription": "Sporty exterior styling upgrade. Fits LEOPARD 5.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Rear Spoiler for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0094",
+    "slug": "mud-guards-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Mud Guards",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Protects the body from mud, water, and road debris. Fits LEOPARD 5.",
+    "shortDescription": "Protects the body from mud, water, and road debris. Fits LEOPARD 5.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Mud Guards for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0095",
+    "slug": "window-visors-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Window Visors",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Slim rain guards for a cleaner and more practical exterior. Fits LEOPARD 5.",
+    "shortDescription": "Slim rain guards for a cleaner and more practical exterior. Fits LEOPARD 5.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Window Visors for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0096",
+    "slug": "mirror-covers-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Mirror Covers",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Stylish mirror covers for a premium exterior look. Fits LEOPARD 5.",
+    "shortDescription": "Stylish mirror covers for a premium exterior look. Fits LEOPARD 5.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Mirror Covers for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0097",
+    "slug": "screen-protector-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Screen Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Tempered glass protection for the main display. Fits LEOPARD 5.",
+    "shortDescription": "Tempered glass protection for the main display. Fits LEOPARD 5.",
+    "tags": [
+      "Protection",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Screen Protector for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0098",
+    "slug": "door-edge-guards-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Door Edge Guards",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Protects door edges from chips and scratches. Fits LEOPARD 5.",
+    "shortDescription": "Protects door edges from chips and scratches. Fits LEOPARD 5.",
+    "tags": [
+      "Protection",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Edge Guards for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0099",
+    "slug": "trunk-protector-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Trunk Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Durable protection for loading and unloading cargo. Fits LEOPARD 5.",
+    "shortDescription": "Durable protection for loading and unloading cargo. Fits LEOPARD 5.",
+    "tags": [
+      "Protection",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Protector for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0100",
+    "slug": "paint-protection-film-kit-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Paint Protection Film Kit",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Clear protective film for high-contact exterior areas. Fits LEOPARD 5.",
+    "shortDescription": "Clear protective film for high-contact exterior areas. Fits LEOPARD 5.",
+    "tags": [
+      "Protection",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Paint Protection Film Kit for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0101",
+    "slug": "wireless-charger-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Fast wireless charging accessory for daily use. Fits LEOPARD 5.",
+    "shortDescription": "Fast wireless charging accessory for daily use. Fits LEOPARD 5.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Wireless Charger for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0102",
+    "slug": "dash-camera-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Dash Camera",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "High-definition driving recorder for added safety. Fits LEOPARD 5.",
+    "shortDescription": "High-definition driving recorder for added safety. Fits LEOPARD 5.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Dash Camera for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0103",
+    "slug": "phone-holder-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Phone Holder",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Stable phone mount with a clean interior fit. Fits LEOPARD 5.",
+    "shortDescription": "Stable phone mount with a clean interior fit. Fits LEOPARD 5.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Phone Holder for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0104",
+    "slug": "usb-hub-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "USB Hub",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Adds extra charging and connection ports. Fits LEOPARD 5.",
+    "shortDescription": "Adds extra charging and connection ports. Fits LEOPARD 5.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about USB Hub for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0105",
+    "slug": "trunk-organizer-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Trunk Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Keeps cargo clean, secure, and organized. Fits LEOPARD 5.",
+    "shortDescription": "Keeps cargo clean, secure, and organized. Fits LEOPARD 5.",
+    "tags": [
+      "Storage",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Organizer for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0106",
+    "slug": "cargo-net-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Cargo Net",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Holds items in place while driving. Fits LEOPARD 5.",
+    "shortDescription": "Holds items in place while driving. Fits LEOPARD 5.",
+    "tags": [
+      "Storage",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Cargo Net for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0107",
+    "slug": "seat-back-organizer-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Seat Back Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Extra storage for rear passengers and daily items. Fits LEOPARD 5.",
+    "shortDescription": "Extra storage for rear passengers and daily items. Fits LEOPARD 5.",
+    "tags": [
+      "Storage",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Seat Back Organizer for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0108",
+    "slug": "interior-led-kit-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Interior LED Kit",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Ambient lighting upgrade for a premium cabin feel. Fits LEOPARD 5.",
+    "shortDescription": "Ambient lighting upgrade for a premium cabin feel. Fits LEOPARD 5.",
+    "tags": [
+      "Lighting",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Interior LED Kit for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0109",
+    "slug": "welcome-lights-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Welcome Lights",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Elegant entry lighting for a luxury look. Fits LEOPARD 5.",
+    "shortDescription": "Elegant entry lighting for a luxury look. Fits LEOPARD 5.",
+    "tags": [
+      "Lighting",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Welcome Lights for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0110",
+    "slug": "door-logo-projector-leopard5",
+    "vehicle": "leopard5",
+    "vehicleName": "LEOPARD 5",
+    "name": "Door Logo Projector",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 5"
+    ],
+    "description": "Projects a clean welcome logo when opening the door. Fits LEOPARD 5.",
+    "shortDescription": "Projects a clean welcome logo when opening the door. Fits LEOPARD 5.",
+    "tags": [
+      "Lighting",
+      "LEOPARD 5"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Logo Projector for LEOPARD 5."
+  },
+  {
+    "id": "PRD-0111",
+    "slug": "3d-floor-mats-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "3D Floor Mats",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Custom-fit all-weather floor mats. Fits LEOPARD 7.",
+    "shortDescription": "Custom-fit all-weather floor mats. Fits LEOPARD 7.",
+    "tags": [
+      "Interior",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about 3D Floor Mats for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0112",
+    "slug": "premium-seat-covers-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Premium Seat Covers",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Luxury seat covers with a clean OEM-style fit. Fits LEOPARD 7.",
+    "shortDescription": "Luxury seat covers with a clean OEM-style fit. Fits LEOPARD 7.",
+    "tags": [
+      "Interior",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Premium Seat Covers for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0113",
+    "slug": "dashboard-cover-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Dashboard Cover",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Protects the dashboard from heat, dust, and sunlight. Fits LEOPARD 7.",
+    "shortDescription": "Protects the dashboard from heat, dust, and sunlight. Fits LEOPARD 7.",
+    "tags": [
+      "Interior",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Dashboard Cover for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0114",
+    "slug": "center-console-organizer-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Center Console Organizer",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Keeps small items organized inside the center console. Fits LEOPARD 7.",
+    "shortDescription": "Keeps small items organized inside the center console. Fits LEOPARD 7.",
+    "tags": [
+      "Interior",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Center Console Organizer for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0115",
+    "slug": "rear-spoiler-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Rear Spoiler",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Sporty exterior styling upgrade. Fits LEOPARD 7.",
+    "shortDescription": "Sporty exterior styling upgrade. Fits LEOPARD 7.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Rear Spoiler for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0116",
+    "slug": "mud-guards-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Mud Guards",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Protects the body from mud, water, and road debris. Fits LEOPARD 7.",
+    "shortDescription": "Protects the body from mud, water, and road debris. Fits LEOPARD 7.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Mud Guards for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0117",
+    "slug": "window-visors-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Window Visors",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Slim rain guards for a cleaner and more practical exterior. Fits LEOPARD 7.",
+    "shortDescription": "Slim rain guards for a cleaner and more practical exterior. Fits LEOPARD 7.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Window Visors for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0118",
+    "slug": "mirror-covers-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Mirror Covers",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Stylish mirror covers for a premium exterior look. Fits LEOPARD 7.",
+    "shortDescription": "Stylish mirror covers for a premium exterior look. Fits LEOPARD 7.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Mirror Covers for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0119",
+    "slug": "screen-protector-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Screen Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Tempered glass protection for the main display. Fits LEOPARD 7.",
+    "shortDescription": "Tempered glass protection for the main display. Fits LEOPARD 7.",
+    "tags": [
+      "Protection",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Screen Protector for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0120",
+    "slug": "door-edge-guards-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Door Edge Guards",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Protects door edges from chips and scratches. Fits LEOPARD 7.",
+    "shortDescription": "Protects door edges from chips and scratches. Fits LEOPARD 7.",
+    "tags": [
+      "Protection",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Edge Guards for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0121",
+    "slug": "trunk-protector-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Trunk Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Durable protection for loading and unloading cargo. Fits LEOPARD 7.",
+    "shortDescription": "Durable protection for loading and unloading cargo. Fits LEOPARD 7.",
+    "tags": [
+      "Protection",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Protector for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0122",
+    "slug": "paint-protection-film-kit-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Paint Protection Film Kit",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Clear protective film for high-contact exterior areas. Fits LEOPARD 7.",
+    "shortDescription": "Clear protective film for high-contact exterior areas. Fits LEOPARD 7.",
+    "tags": [
+      "Protection",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Paint Protection Film Kit for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0123",
+    "slug": "wireless-charger-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Fast wireless charging accessory for daily use. Fits LEOPARD 7.",
+    "shortDescription": "Fast wireless charging accessory for daily use. Fits LEOPARD 7.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Wireless Charger for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0124",
+    "slug": "dash-camera-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Dash Camera",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "High-definition driving recorder for added safety. Fits LEOPARD 7.",
+    "shortDescription": "High-definition driving recorder for added safety. Fits LEOPARD 7.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Dash Camera for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0125",
+    "slug": "phone-holder-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Phone Holder",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Stable phone mount with a clean interior fit. Fits LEOPARD 7.",
+    "shortDescription": "Stable phone mount with a clean interior fit. Fits LEOPARD 7.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Phone Holder for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0126",
+    "slug": "usb-hub-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "USB Hub",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Adds extra charging and connection ports. Fits LEOPARD 7.",
+    "shortDescription": "Adds extra charging and connection ports. Fits LEOPARD 7.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about USB Hub for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0127",
+    "slug": "trunk-organizer-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Trunk Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Keeps cargo clean, secure, and organized. Fits LEOPARD 7.",
+    "shortDescription": "Keeps cargo clean, secure, and organized. Fits LEOPARD 7.",
+    "tags": [
+      "Storage",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Organizer for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0128",
+    "slug": "cargo-net-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Cargo Net",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Holds items in place while driving. Fits LEOPARD 7.",
+    "shortDescription": "Holds items in place while driving. Fits LEOPARD 7.",
+    "tags": [
+      "Storage",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Cargo Net for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0129",
+    "slug": "seat-back-organizer-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Seat Back Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Extra storage for rear passengers and daily items. Fits LEOPARD 7.",
+    "shortDescription": "Extra storage for rear passengers and daily items. Fits LEOPARD 7.",
+    "tags": [
+      "Storage",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Seat Back Organizer for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0130",
+    "slug": "interior-led-kit-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Interior LED Kit",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Ambient lighting upgrade for a premium cabin feel. Fits LEOPARD 7.",
+    "shortDescription": "Ambient lighting upgrade for a premium cabin feel. Fits LEOPARD 7.",
+    "tags": [
+      "Lighting",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Interior LED Kit for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0131",
+    "slug": "welcome-lights-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Welcome Lights",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Elegant entry lighting for a luxury look. Fits LEOPARD 7.",
+    "shortDescription": "Elegant entry lighting for a luxury look. Fits LEOPARD 7.",
+    "tags": [
+      "Lighting",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Welcome Lights for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0132",
+    "slug": "door-logo-projector-leopard7",
+    "vehicle": "leopard7",
+    "vehicleName": "LEOPARD 7",
+    "name": "Door Logo Projector",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 7"
+    ],
+    "description": "Projects a clean welcome logo when opening the door. Fits LEOPARD 7.",
+    "shortDescription": "Projects a clean welcome logo when opening the door. Fits LEOPARD 7.",
+    "tags": [
+      "Lighting",
+      "LEOPARD 7"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Logo Projector for LEOPARD 7."
+  },
+  {
+    "id": "PRD-0133",
+    "slug": "3d-floor-mats-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "3D Floor Mats",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Custom-fit all-weather floor mats. Fits LEOPARD 8.",
+    "shortDescription": "Custom-fit all-weather floor mats. Fits LEOPARD 8.",
+    "tags": [
+      "Interior",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about 3D Floor Mats for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0134",
+    "slug": "premium-seat-covers-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Premium Seat Covers",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Luxury seat covers with a clean OEM-style fit. Fits LEOPARD 8.",
+    "shortDescription": "Luxury seat covers with a clean OEM-style fit. Fits LEOPARD 8.",
+    "tags": [
+      "Interior",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Premium Seat Covers for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0135",
+    "slug": "dashboard-cover-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Dashboard Cover",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Protects the dashboard from heat, dust, and sunlight. Fits LEOPARD 8.",
+    "shortDescription": "Protects the dashboard from heat, dust, and sunlight. Fits LEOPARD 8.",
+    "tags": [
+      "Interior",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Dashboard Cover for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0136",
+    "slug": "center-console-organizer-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Center Console Organizer",
+    "category": "Interior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Keeps small items organized inside the center console. Fits LEOPARD 8.",
+    "shortDescription": "Keeps small items organized inside the center console. Fits LEOPARD 8.",
+    "tags": [
+      "Interior",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Center Console Organizer for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0137",
+    "slug": "rear-spoiler-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Rear Spoiler",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Sporty exterior styling upgrade. Fits LEOPARD 8.",
+    "shortDescription": "Sporty exterior styling upgrade. Fits LEOPARD 8.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Rear Spoiler for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0138",
+    "slug": "mud-guards-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Mud Guards",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Protects the body from mud, water, and road debris. Fits LEOPARD 8.",
+    "shortDescription": "Protects the body from mud, water, and road debris. Fits LEOPARD 8.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Mud Guards for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0139",
+    "slug": "window-visors-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Window Visors",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Slim rain guards for a cleaner and more practical exterior. Fits LEOPARD 8.",
+    "shortDescription": "Slim rain guards for a cleaner and more practical exterior. Fits LEOPARD 8.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Window Visors for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0140",
+    "slug": "mirror-covers-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Mirror Covers",
+    "category": "Exterior",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Stylish mirror covers for a premium exterior look. Fits LEOPARD 8.",
+    "shortDescription": "Stylish mirror covers for a premium exterior look. Fits LEOPARD 8.",
+    "tags": [
+      "Exterior",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Mirror Covers for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0141",
+    "slug": "screen-protector-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Screen Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Tempered glass protection for the main display. Fits LEOPARD 8.",
+    "shortDescription": "Tempered glass protection for the main display. Fits LEOPARD 8.",
+    "tags": [
+      "Protection",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Screen Protector for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0142",
+    "slug": "door-edge-guards-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Door Edge Guards",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Protects door edges from chips and scratches. Fits LEOPARD 8.",
+    "shortDescription": "Protects door edges from chips and scratches. Fits LEOPARD 8.",
+    "tags": [
+      "Protection",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Edge Guards for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0143",
+    "slug": "trunk-protector-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Trunk Protector",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Durable protection for loading and unloading cargo. Fits LEOPARD 8.",
+    "shortDescription": "Durable protection for loading and unloading cargo. Fits LEOPARD 8.",
+    "tags": [
+      "Protection",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Protector for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0144",
+    "slug": "paint-protection-film-kit-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Paint Protection Film Kit",
+    "category": "Protection",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Clear protective film for high-contact exterior areas. Fits LEOPARD 8.",
+    "shortDescription": "Clear protective film for high-contact exterior areas. Fits LEOPARD 8.",
+    "tags": [
+      "Protection",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Paint Protection Film Kit for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0145",
+    "slug": "wireless-charger-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Fast wireless charging accessory for daily use. Fits LEOPARD 8.",
+    "shortDescription": "Fast wireless charging accessory for daily use. Fits LEOPARD 8.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Wireless Charger for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0146",
+    "slug": "dash-camera-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Dash Camera",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "High-definition driving recorder for added safety. Fits LEOPARD 8.",
+    "shortDescription": "High-definition driving recorder for added safety. Fits LEOPARD 8.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Dash Camera for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0147",
+    "slug": "phone-holder-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Phone Holder",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Stable phone mount with a clean interior fit. Fits LEOPARD 8.",
+    "shortDescription": "Stable phone mount with a clean interior fit. Fits LEOPARD 8.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Phone Holder for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0148",
+    "slug": "usb-hub-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "USB Hub",
+    "category": "Electronics",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Adds extra charging and connection ports. Fits LEOPARD 8.",
+    "shortDescription": "Adds extra charging and connection ports. Fits LEOPARD 8.",
+    "tags": [
+      "Electronics",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about USB Hub for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0149",
+    "slug": "trunk-organizer-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Trunk Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Keeps cargo clean, secure, and organized. Fits LEOPARD 8.",
+    "shortDescription": "Keeps cargo clean, secure, and organized. Fits LEOPARD 8.",
+    "tags": [
+      "Storage",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Trunk Organizer for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0150",
+    "slug": "cargo-net-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Cargo Net",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Holds items in place while driving. Fits LEOPARD 8.",
+    "shortDescription": "Holds items in place while driving. Fits LEOPARD 8.",
+    "tags": [
+      "Storage",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Cargo Net for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0151",
+    "slug": "seat-back-organizer-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Seat Back Organizer",
+    "category": "Storage",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Extra storage for rear passengers and daily items. Fits LEOPARD 8.",
+    "shortDescription": "Extra storage for rear passengers and daily items. Fits LEOPARD 8.",
+    "tags": [
+      "Storage",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Seat Back Organizer for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0152",
+    "slug": "interior-led-kit-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Interior LED Kit",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Ambient lighting upgrade for a premium cabin feel. Fits LEOPARD 8.",
+    "shortDescription": "Ambient lighting upgrade for a premium cabin feel. Fits LEOPARD 8.",
+    "tags": [
+      "Lighting",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Interior LED Kit for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0153",
+    "slug": "welcome-lights-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Welcome Lights",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Elegant entry lighting for a luxury look. Fits LEOPARD 8.",
+    "shortDescription": "Elegant entry lighting for a luxury look. Fits LEOPARD 8.",
+    "tags": [
+      "Lighting",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Welcome Lights for LEOPARD 8."
+  },
+  {
+    "id": "PRD-0154",
+    "slug": "door-logo-projector-leopard8",
+    "vehicle": "leopard8",
+    "vehicleName": "LEOPARD 8",
+    "name": "Door Logo Projector",
+    "category": "Lighting",
+    "price": null,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/placeholder-product.svg"
+    ],
+    "stock": 0,
+    "status": "coming-soon",
+    "featured": false,
+    "compatibility": [
+      "LEOPARD 8"
+    ],
+    "description": "Projects a clean welcome logo when opening the door. Fits LEOPARD 8.",
+    "shortDescription": "Projects a clean welcome logo when opening the door. Fits LEOPARD 8.",
+    "tags": [
+      "Lighting",
+      "LEOPARD 8"
+    ],
+    "whatsappText": "Hello, I want to ask about Door Logo Projector for LEOPARD 8."
+  },
+  {
+    "id": "PRD-TRUNK-AVATR12",
+    "slug": "full-tpe-trunk-mat-avatr12",
+    "vehicle": "avatr12",
+    "vehicleName": "AVATR 12",
+    "name": "Full TPE Trunk Mat",
+    "category": "Interior",
+    "price": 220,
+    "salePrice": null,
+    "currency": "AED",
+    "brand": "APEX Auto",
+    "images": [
+      "images/products/floor-mats-avatr12/trunk-purple.png"
+    ],
+    "stock": 25,
+    "status": "in-stock",
+    "featured": true,
+    "compatibility": [
+      "AVATR 12"
+    ],
+    "description": "Full coverage TPE trunk mat for AVATR 12. Choose the color you need and order directly through WhatsApp.",
+    "shortDescription": "Full coverage AVATR 12 TPE trunk mat with selectable color.",
+    "tags": [
+      "Protection",
+      "AVATR 12",
+      "Trunk Mat"
+    ],
+    "features": [
+      "Custom fit for AVATR 12",
+      "Waterproof TPE material",
+      "Easy to clean",
+      "Full trunk coverage"
+    ],
+    "whatsappText": "Hello, I want to order Full TPE Trunk Mat for AVATR 12.",
+    "basePrice": 220,
+    "options": [
+      {
+        "id": "color",
+        "label": "Choose Color",
+        "type": "color",
+        "required": true,
+        "choices": [
+          {
+            "label": "Twilight Purple",
+            "value": "purple",
+            "hex": "#8b6aa3",
+            "image": "images/products/floor-mats-avatr12/trunk-purple.png",
+            "supplierName": "Avita 12 [Color Notes] Full TPE Trunk Mat - Twilight Purple"
+          },
+          {
+            "label": "Smoky White",
+            "value": "white",
+            "hex": "#f3f4f6",
+            "image": "images/products/floor-mats-avatr12/trunk-white.png",
+            "supplierName": "Avita 12 [Color Notes] Full TPE Trunk Mat - Smoky White"
+          },
+          {
+            "label": "Dark Black",
+            "value": "black",
+            "hex": "#111111",
+            "image": "images/products/floor-mats-avatr12/trunk-black.png",
+            "supplierName": "Avita 12 [Color Notes] Full TPE Trunk Mat - Dark Black"
+          }
+        ]
+      }
+    ]
+  }
+]

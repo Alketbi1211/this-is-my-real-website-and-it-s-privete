@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LEOPARD 7 Accessories | APEX Auto</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body data-vehicle="leopard7">
+  <header class="navbar">
+    <div class="container nav-inner">
+      <a class="logo" href="../index.html">APEX <span>Auto</span></a>
+      <nav class="nav-links">
+        <a href="../index.html#vehicles">Vehicles</a>
+        <a href="#products">Products</a>
+        <a href="../index.html#contact">Contact</a>
+      </nav>
+      <div class="nav-actions">
+        <a class="btn secondary" href="../index.html">Home</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="product-hero">
+      <div class="container product-hero-inner">
+        <div>
+          <span class="eyebrow">Premium SUV</span>
+          <h1>LEOPARD 7 Accessories</h1>
+          <p>Explore compatible accessories for LEOPARD 7. Select a category below to browse compatible interior, exterior, protection, electronics, storage, and lighting products.</p>
+          <a class="btn" href="#products">View Products</a>
+        </div>
+        <img src="../images/vehicles/leopard7.jpeg" alt="LEOPARD 7">
+      </div>
+    </section>
+
+    <section id="products" class="section">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <span class="eyebrow">Product Catalog</span>
+            <h2>LEOPARD 7 products</h2>
+            <p>Browse accessories by category. Product photos and prices can be added later.</p>
+          </div>
+        </div>
+
+        <div id="category-panel" class="category-panel"></div>
+
+        <div class="filters">
+          <button class="filter-btn active" data-category="All">All</button>
+          <button class="filter-btn" data-category="Interior">Interior</button>
+          <button class="filter-btn" data-category="Exterior">Exterior</button>
+          <button class="filter-btn" data-category="Protection">Protection</button>
+          <button class="filter-btn" data-category="Electronics">Electronics</button>
+          <button class="filter-btn" data-category="Storage">Storage</button>
+          <button class="filter-btn" data-category="Lighting">Lighting</button>
+        </div>
+
+        <div id="product-grid" class="product-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">© 2026 APEX Auto. Premium vehicle accessories.</div>
+  </footer>
+
+  <script src="../js/products.js"></script>
+</body>
+</html>
